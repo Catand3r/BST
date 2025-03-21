@@ -9,4 +9,6 @@ int main()
     bst.insert(4);
     bst.insert(2);
     bst.print();
+    bst.erase(1);
+    bst.print();
 }
